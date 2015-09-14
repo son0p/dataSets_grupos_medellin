@@ -1,0 +1,378 @@
+time,artistas_id,captcha,paternidad,nombre,activo,web,twitter,facebook,instragram,youtube,soundcloud,reverbnation,link1,link2,imagenes,correo,participaciones,cobertura,barrio,municipio,tags,zonaEncuentro,contacto,direccion,telefono,comuna,inicio
+2010-05-24 13:21:08,1,2,0,Plantadtc,si,,,,,,,,,,,NULL,"Reencarnacion, Los Torrentes, Ekrion, Codigo, Kraken, Aterciopelados, La derecha, Aeromostra",medellin colombia,,,plantadetodoclima pdtc ,,,,0,0,NULL
+2010-05-24 13:21:08,2,2,0,Dexkoncierto,si,,,,,,,,,,,NULL,,medellin colombia usa,,,hardcore punk ,,,,0,0,NULL
+2010-05-24 13:21:08,3,2,0,La 45 ,si,,,,,,,,,,,NULL,,medellin bogota colombia,,,rock ,,,,0,0,NULL
+2010-05-24 13:21:08,4,2,0,Neus,si,,,,,,,,,,,NULL,,Medellin bogota colombia,,,industrial cyberpunk,,,,0,0,NULL
+2010-06-09 09:47:36,5,2,0,Ekrion,no,                                                                           ,,,,,,,,,,NULL,,medellin,,,metal experimental,,,,0,0,NULL
+2010-05-24 13:21:08,6,2,0,Reencarnacion,si,,,,,,,,,,,NULL,,medellin bogota colombia europa usa japon,,,metal aleatorio ,,,,0,0,NULL
+2010-05-24 13:21:08,7,2,0,Parabellum,no,,,,,,,,,,,NULL,,medellin bogota colombia usa europa japon,,,metal death black,,,,0,0,NULL
+2010-05-24 13:21:08,8,2,0,Ramon Echavarria,si,,,,,,,,,,,NULL,,medellin bogota colombia,,,cantautor,,,,0,0,NULL
+2010-05-24 13:21:08,9,2,0,La mata,no,,,,,,,,,,,NULL,,medellin,,,cantautor psicodelia rock,,,,0,0,NULL
+2010-05-24 13:21:08,10,2,0,Lilith,si,,,,,,,,,,,NULL,,medellin bogota,,,glam rock punk,,,,0,0,NULL
+2010-05-24 13:21:08,11,2,0,Rey grodiflon,si,,,,,,,,,,,NULL,,medellin bogota ,,,ska rock,,,,0,0,NULL
+2010-05-24 13:21:08,12,2,0,No futuro,si,,,,,,,,,,,NULL,,bogota,,,"Punk, Neo, ",,,,0,0,NULL
+2010-05-24 13:21:08,13,2,0,Armandho,si,,,,,,,,,,,NULL,,medellin,,,soundart experimental organico,,,,0,0,NULL
+2010-06-09 10:28:13,14,2,0,Lucrecia,si,"http://www.myspace.com/thesoundoflucrecia
+                            ",,,,,,,,,,NULL,,medellin bogota colombia mexico ,,,minimal lounge,,,,0,0,NULL
+2010-05-24 13:21:08,15,2,0,Tropico Esmeralda,si,,,,,,,,,,,NULL,,medellin colombia suramerica,,,glitch electronica ,,,,0,0,NULL
+2010-06-09 10:31:30,17,2,0,El colectivo,si,http://www.myspace.com/elcolectivomusic                                              ,,,,,,,,,,NULL,,medellin bogota ,,,trip trop pop electronico,,,,0,0,NULL
+2010-05-24 13:21:08,18,2,0,Jontre,si,,,,,,,,,,,NULL,,medellin,,,R&B latino,,,,0,0,NULL
+2010-05-24 13:21:08,19,2,0,De bruces a mi (DBAM),si,,,,,,,,,,,NULL,,medellin bogota colombia,,,Reggae ,,,,0,0,NULL
+2010-05-24 13:21:08,20,2,0,Coffee Makers,si,,,,,,,,,,,NULL,,medellin bogota colombia,,,reggae ska dub,,,,0,0,NULL
+2010-05-24 13:21:08,21,2,0,Parlantes,si,,,,,,,,,,,NULL,,medellin,,,rock psicodelia,,,,0,0,NULL
+2010-05-24 13:21:08,22,2,0,Atrocity,si,,,,,,,,,,,NULL,,medellin,,,metal ,,,,0,0,NULL
+2010-05-24 13:21:08,23,2,0,Mami,si,,,,,,,,,,,NULL,,,,,break italo disco,,,,0,0,NULL
+2010-06-09 11:27:27,24,2,0,Zdey,si,http://www.myspace.com/zdey                            ,,,,,,,,,,z_deyhongo[en]hotmail.com ,,medellin,,,house ,,,,0,0,NULL
+2010-05-24 13:21:08,25,2,0,El Globo,si,,,,,,,,,,,globonauta[en]hotmail[punto]com,,medellin,,,rock punk,,,,0,0,NULL
+2010-06-09 09:53:55,26,2,0,Federico Franco,si,http://www.myspace.com/federicofranco                 ,,,,,,,,,,antimartista[en]yahoo[punto]com,,medellin,,,pop  rock indie,,,,0,0,NULL
+2010-06-09 11:23:31,27,2,0,Velez,si,                           ,,,,,,,,,,adubtune[en]hotmail[punto]com,,medellin ,,,idm minimal ,,,,0,0,NULL
+2010-05-24 13:21:08,28,2,0,Roman,si,http://www.myspace.com/amordemente,,,,,,,,,,amordementex[en]gmail[punto]com,,medellin,,,rock pop,,,,0,0,NULL
+2010-05-24 13:21:08,29,2,0,Musica inmobiliaria,si,http://www.myspace.com/musicainmobiliariav1,,,,,,,,,,musicainmobiliaria[en]gmail[punto]com ,,medellin,,,electroacustica experimental,,,,0,0,NULL
+2010-05-24 13:21:08,30,2,0,Papita ,si,NULL,,,,,,,,,,papitapop[en]gmail[punto]com,,,,,pop rock,,,,0,0,NULL
+2010-05-24 13:21:08,31,2,0,Kafeina,si,NULL,,,,,,,,,,kmusic[en]une[punto]net[punto]co ,,medellin,,,hip hop pop,,,,0,0,NULL
+2010-05-24 13:21:08,32,2,0,Centrales,si, http://www.myspace.com/bandacentrales ,,,,,,,,,,NULL,,,,,retro vintage rock,,,,0,0,NULL
+2010-06-09 11:20:36,33,2,0,Tato Restrepo,si,                                                                                    ,,,,,,,,,,NULL,,medellin,,,rock,,,,0,0,NULL
+2010-06-09 12:08:38,34,2,0,Odio a botero,si,http://www.myspace.com/odioabotero                             ,,,,,,,,,,NULL,,bogota medellin,,,punk ,,,,0,0,NULL
+2010-06-08 09:36:33,35,2,0,Bajotierra,si, http://www.myspace.com/losdiasadelante                             ,,,,,,,,,,NULL,,medellin bogota colombia,,,rock pop,,,,0,0,NULL
+2010-05-24 13:21:08,36,2,0,Nash,si,NULL,,,,,,,,,,NULL,,medellin,,,rock progresivo,,,,0,0,NULL
+2010-05-24 13:21:08,37,2,0,Tron,no,NULL,,,,,,,,,,NULL,,medellin,,,rock progresivo,,,,0,0,NULL
+2010-06-09 11:22:46,38,2,0,Tres de corazón,si,"http://www.myspace.com/tresdecorazon
+  	
+                             ",,,,,,,,,,NULL,,medellin bogota,,,neo punk pop ,,,,0,0,NULL
+2010-05-24 13:21:08,39,2,0,El Chispero,si,NULL,,,,,,,,,,NULL,,medellin,,,rock,,,,0,0,NULL
+2010-05-24 13:21:08,40,2,0,Codigo,si,NULL,,,,,,,,,,NULL,,medellin,,,pop latino,,,,0,0,NULL
+2010-05-24 13:21:08,41,2,0,2Revoluxion,si,http://www.2revoluxion.com/,,,,,,,,,,NULL,,medellin,,,indie lounge,,,,0,0,NULL
+2010-05-24 13:21:08,42,2,0,Ghava,si,NULL,,,,,,,,,,NULL,,,,,Electrojazz lounge,,,,0,0,NULL
+2010-05-24 13:21:08,44,2,0,Moremen,si,NULL,,,,,,,,,,NULL,,medellin,,,R&B cristiano,,,,0,0,NULL
+2010-05-24 13:21:08,45,2,0,Guillen,si,NULL,,,,,,,,,,NULL,,Barrancabermeja medellin ,,,funk pop,,,,0,0,NULL
+2010-05-24 13:21:08,46,2,0,Sereno,si,NULL,,,,,,,,,,magioma[en]yahoo[punto]com,,,,,soundtrack bandasonora ,,,,0,0,NULL
+2010-05-24 13:21:08,47,2,0,Cuba del rio,si,NULL,,,,,,,,,,NULL,,,,,lounge,,,,0,0,NULL
+2010-06-09 12:14:17,48,2,0,KcK,si,,,,,,,,,,,NULL,,medellin,,,house,,,,0,0,NULL
+2010-06-09 10:33:08,49,2,0,Mala,si,                            ,,,,,,,,,,NULL,,medellin,,,breakbeat house,,,,0,0,NULL
+2010-05-24 13:21:08,50,2,0,Perseo,si,NULL,,,,,,,,,,NULL,,,,,Heavy Metal,,,,0,0,NULL
+2010-06-09 10:49:25,51,2,0,Popcorn,si,http://www.myspace.com/popcornmusica                       ,,,,,,,,,,NULL,,,,,"Punk, Neo, Punk-pop",,,,0,0,NULL
+2010-06-18 12:59:52,425,2,0,R.U.A.,si,http://www.myspace.com/r.u.a,,,,,,,,,,,,,,medellin,Rock /Acoustic / Blues / ,,,,0,0,NULL
+2010-06-02 11:59:57,52,2,0,Nepentes,si,http://www.myspace.com/nepentes                            ,,,,,,,,,,NULL,,"medellin, bogota",,,rock power hard,,,,0,0,NULL
+2010-06-09 09:58:15,53,2,0,Gaias Pendulum,si,http://www.myspace.com/gaiaspendulum                       ,,,,,,,,,,NULL,,medellin,,,metal gotico,,,,0,0,NULL
+2010-05-24 13:21:08,54,2,0,Perpetual,si,"<a href=""http://myspace.com/perpetualband"">http://myspace.com/perpetualband</a>",,,,,,,,,,NULL,,medellin bogota,,,metal gothic death ,,,,0,0,NULL
+2010-06-02 11:18:28,55,2,0,Aghast,si,http://myspace.com/aghastmedellin          ,,,,,,,,,,NULL,,,,,metal gothic death,,,,0,0,NULL
+2010-06-09 10:56:04,56,2,0,Radiosonica,si,http://www.myspace.com/radiosonicamusic,,,,,,,,,,,,,,,electronica dowtempo triphop,,,,0,0,NULL
+2010-06-09 09:48:48,57,2,0,El Amarillo,si,http://www.myspace.com/lamarillo                            ,,,,,,,,,,,,,,,latina andina,,,,0,0,NULL
+2010-06-09 10:38:31,58,2,0,Matute,si,http://www.myspace.com/matute/                                                       ,,,,,,,,,,,,,,,"rock, indie, southern rock",,,,0,0,NULL
+2010-06-09 09:56:53,59,2,0,Frankie ha Muerto,si,http://www.myspace.com/frankiehamuerto                          ,,,,,,,,,,,,,,,"Rock, Experimental",,,,0,0,NULL
+2011-01-29 01:20:06,427,2,0,Sin and Grace,si,http://www.facebook.com/pages/sin-and-grace/225596117781,,,,,,,,,,sin_and_grace_metalcore@hotmail.com,,,,,Metal Hardcore,,,,0,0,NULL
+2010-06-09 10:03:54,60,2,0,I.R.A.,si,http://www.myspace.com/infexionrapunk,,,,,,,,,,,,,,,Punk,,,,0,0,NULL
+2010-05-24 13:21:08,61,2,0,Los Nombres,si,NULL,,,,,,,,,,NULL,,,,,medellin,,,,0,0,NULL
+2010-06-09 10:38:55,62,2,0,Meencho,si,http://www.myspace.com/meencho                             ,,,,,,,,,,NULL,,medellin,,,"Alternative, folk, hip hop",,,,0,0,NULL
+2010-06-09 11:19:00,63,2,0,Susana,si,http://www.myspace.com/zuzana              ,,,,,,,,,,NULL,,medellin,,,"Rock, Pop",,,,0,0,NULL
+2010-06-09 10:59:32,64,2,0,Señores Usuarios,si,http://www.myspace.com/sresusuarios,,,,,,,,,,NULL,,medellin,,,"Reggae, Ska, ",,,,0,0,NULL
+2010-06-09 10:37:37,65,2,0,Masacre,si,http://www.myspace.com/masacrecol                                                     ,,,,,,,,,,,,,,,"Death, metal",,,,0,0,NULL
+2010-06-09 09:58:40,66,2,0,Glad Kazuka,si,http://www.myspace.com/gladkazuka                           ,,,,,,,,,,,,,,,"electronica, ",,,,0,0,NULL
+2010-06-02 11:27:23,67,2,0,Annie scream,si,http://www.myspace.com/anniescream,,,,,,,,,,,,,,,"Screamo, experimental, rock",,,,0,0,NULL
+2010-06-09 10:15:29,71,2,0,Kolombina,no,,,,,,,,,,,NULL,,"medellin, london",,,"sex, bits, brain",,,,0,0,NULL
+2010-05-24 13:21:08,72,2,0,Steel White ,si,,,,,,,,,,,steelwithe2000[en]yahoo.es,,,,,rock,,,,0,0,NULL
+2010-05-24 13:21:08,73,2,0,La rockola ,si,,,,,,,,,,,larockolarock[en]yahoo.com,,,,,vieja guardia,,,,0,0,NULL
+2010-06-02 11:29:04,74,2,0,Awaken,si,http://www.awakenzone.com                          ,,,,,,,,,,awakenmetalband[en]hotmail.com,,,,,metal,,,,0,0,NULL
+2010-05-24 13:21:08,75,2,0,Syrinx,si,,,,,,,,,,,rocksyrinx[en]gmail.com,,,,,roock clasico,,,,0,0,NULL
+2010-06-02 11:26:08,76,2,0,Alejo Garcia ,si,http://www.alejogarcia.com                       ,,,,,,,,,,alejo_canciones[en]alejogarcia.com,,,,,pop,,,,0,0,NULL
+2010-06-09 10:45:49,77,2,0,Nihil Obstat ,si,,,,,,,,,,,,,,,,metal,,,,0,0,NULL
+2010-05-24 13:21:08,78,2,0,Organismo,si,,,,,,,,,,,organismosmed[en]yahoo.com,,,,,metal,,,,0,0,NULL
+2010-05-24 13:21:08,79,2,0,Los Arboles,no,,,,,,,,,,,,,,,,Rock,,,,0,0,NULL
+2010-06-09 10:00:55,80,2,0,Grito,si,http://www.myspace.com/gritohardcore                            ,,,,,,,,,,,,,,,hardcore,,,,0,0,NULL
+2010-06-09 10:32:34,81,2,0,Magio,si,http://www.myspace.com/magiomusic                     ,,,,,,,,,,magioma[arroba]yahoo.com,,,,,Ecléctico,,,,0,0,NULL
+2010-06-09 11:01:54,82,2,0,Siete,si,                       ,,,,,,,,,,,,,,,"Folk, ambient, trip hop",,,,0,0,NULL
+2010-06-09 10:47:22,83,2,0,Paddington Breaks,si,http://www.myspace.com/paddingtonbreaks,,,,,,,,,,paddingbreaks[en]yahoo.co.uk,,,,,Electronica,,,,0,0,NULL
+2010-05-24 13:21:08,84,2,0,Cielo Rojo,si,,,,,,,,,,,"cielored[en]hotmail.com, cartrepo[en]hotmail.com",,,,,rock ,,,,0,0,NULL
+2010-05-24 13:21:08,85,2,0,Hijos de la Criada,si,,,,,,,,,,,hijosdelacriada[en]uol.com.co,,,,,rock,,,,0,0,NULL
+2010-06-09 11:18:35,86,2,0,Supervelcro,si,http://www.myspace.com/supervelcro ,,,,,,,,,,,,,,,electronica,,,,0,0,NULL
+2010-06-09 10:34:14,87,2,0,Maria Mandinga,si,http://www.mariamandinga.com                            ,,,,,,,,,,,,,,,"Rock, Pop",,,,0,0,NULL
+2010-05-24 13:21:08,88,2,0,Camilo Valencia,si,,,,,,,,,,,,,,,,Pop,,,,0,0,NULL
+2010-06-09 10:26:40,89,2,0,Los Sorners,si,http://www.myspace.com/lossorners                      ,,,,,,,,,,,,,,,"punk, garage,rockabilly,psychobilly,punkabilly,oi",,,,0,0,NULL
+2010-07-15 03:06:51,426,2,0,juanito (productor - creativo ),si,juanitopro.com,,,,,,,,,,,,,,,,,,,0,0,NULL
+2010-06-09 11:44:34,90,2,0,[neuma],si,                                                 ,,,,,,,,,,,,,,,"Ambient, IDM, Minimal",,,,0,0,NULL
+2010-06-09 10:52:20,91,2,0,Protov,si,                                            ,,,,,,,,,,,,,,,"downbeat, IDM, minimal",,,,0,0,NULL
+2010-06-09 12:14:40,93,2,0,Juan Reyes,si,,,,,,,,,,,,,,,,electroacústica ,,,,0,0,NULL
+2010-05-24 13:21:08,94,2,0,Panorama,si,,,,,,,,,,,,,,,,"Electronica, Rock, Post-Pop",,,,0,0,NULL
+2010-06-09 10:46:52,95,2,0,Orgama,si,http://www.myspace.com/orgama                             ,,,,,,,,,,,,,,,"rock, pop",,,,0,0,NULL
+2010-05-24 13:21:08,96,2,0,Escépticos,si,http://www.myspace.com/escepticos,,,,,,,,,,,,,,,punk,,,,0,0,NULL
+2010-05-24 13:21:08,97,2,0,Aphangak,si,,,,,,,,,,,,,,,,metal,,,,0,0,NULL
+2010-05-24 13:21:08,98,2,0,Aposento,si,,,,,,,,,,,,,,,,emo,,,,0,0,NULL
+2010-06-09 10:42:47,99,2,0,Neoplatonics,si,http://www.myspace.com/neoplatonics            ,,,,,,,,,,,,medellin,,,"alternative, pop, rock",,,,0,0,NULL
+2010-05-24 13:21:08,100,2,0,Polo Opuesto,si,http://www.polo-opuesto.blogspot.com/    	,,,,,,,,,,,,,,,"Neo, punk",,,,0,0,NULL
+2010-05-24 13:21:08,101,2,0,Aeromostra,si,http://www.aeromostra.net,,,,,,,,,,,,,,,ficción radiovisual remota,,,,0,0,NULL
+2010-06-09 12:15:05,102,2,0,Ágora,si,                                 ,,,,,,,,,,,,,,,Punk,,,,0,0,NULL
+2010-06-16 17:16:27,424,2,0,Estados Alterados,si,http://estadosalterados.net/,,,,,,,,,,,,,estadio,medellin,"electronica, rock, alternative",,,,0,0,NULL
+2010-06-09 10:01:50,103,2,0,Grupo Acero,si,http://www.myspace.com/aceroheavymetal      ,,,,,,,,,,,,,,,Heavy metal,,,,0,0,NULL
+2010-06-08 09:38:25,104,2,0,Camilo,si,http://www.myspace.com/camilocorazonpop,,,,,,,,,,,,,,,Pop Rock,,,,0,0,NULL
+2010-06-08 09:35:01,105,2,0,Aorta,si,http://www.darkaorta.cjb.net,,,,,,,,,,,,,,,Metal Clasico,,,,0,0,NULL
+2010-05-24 13:21:08,106,2,0,La Furrusca,si,,,,,,,,,,,La Furrusca[en]gmail.com,,,,,Punk Rock,,,,0,0,NULL
+2010-05-24 13:21:08,107,2,0,Negro Escarlata,si,,,,,,,,,,,negro.escarlata[en]hotmail.com,,,,,Metal Progresivo,,,,0,0,NULL
+2010-06-09 10:18:26,108,2,0,La Cava,si,                          ,,,,,,,,,,sonidolacaba[en]yahoo.com,,,,,Pop Rock,,,,0,0,NULL
+2010-05-24 13:21:08,109,2,0,Barrio,si,,,,,,,,,,,bariomusic[en]hotmail.com,,,,,Pop Rock,,,,0,0,NULL
+2010-05-24 13:21:08,110,2,0,Reactor,si,,,,,,,,,,,reactornatural[en]yahoo.es,,,,,Punk Rock,,,,0,0,NULL
+2010-05-24 13:21:08,111,2,0,Unicornio,si,,,,,,,,,,,unicorniorock[en]hotmail.com,,,,,Heavy,,,,0,0,NULL
+2010-05-24 13:21:08,112,2,0,Karma Fox,si,,,,,,,,,,,karma_fox[en]hotmail.com,,,,,Punk Rock,,,,0,0,NULL
+2010-05-24 13:21:08,113,2,0,Yunkel,si,,,,,,,,,,,yunkel[en]host.sk,,,,,New Metal,,,,0,0,NULL
+2010-06-09 09:43:07,114,2,0,Don Pini y Rebel Organización,si,http://www.myspace.com/donpini                         ,,,,,,,,,,don_pini[en]gmai.com,,,,,Hip-Hop,,,,0,0,NULL
+2010-05-24 13:21:08,115,2,0,Eternal,si,,,,,,,,,,,eternalnubia[en]hotmail.com,,,,,Death Metal,,,,0,0,NULL
+2010-05-24 13:21:08,116,2,0,Real Arte Pensado,si,,,,,,,,,,,realartepensado[en]hotmail.com,,,,,Hip-Hop,,,,0,0,NULL
+2010-06-09 10:57:25,117,2,0,Revenge,si,,,,,,,,,,,revenge06[en]hotmail.com,,,,,Heavy Metal,,,,0,0,NULL
+2010-06-09 11:49:55,118,2,0,P.U.S (Puerta a la ï¿½nica Salida),si,http://www.bandapus1.tk                           ,,,,,,,,,,bandapus1[en]hotmail.com,,,,,Metal,,,,0,0,NULL
+2010-06-09 10:27:46,119,2,0,Luciérnaga,si,                            ,,,,,,,,,,luciernagalt[en]yahoo.com,,,,,Pop Rock,,,,0,0,NULL
+2010-06-09 10:50:02,120,2,0,Posguerra,si,http://www.posguerra.com                           ,,,,,,,,,,info[en]posguerra.com,,,,,Hardcore,,,,0,0,NULL
+2010-06-09 10:26:07,121,2,0,Los Restos,si,http://www.losrestos.tk,,,,,,,,,,losrestos92[en]yahoo.es,,,,,Metalcore,,,,0,0,NULL
+2010-05-24 13:21:08,122,2,0,La Curva Reggae,si,,,,,,,,,,,lacurvareggae[en]hotmail.com,,,,,Reggae,,,,0,0,NULL
+2010-06-09 11:24:01,123,2,0,Vitam Et Mortem,si,http://www.myspace.com/vitametmortem,,,,,,,,,,julianmortem666[en]hotmail.com,,,,,Death Metal,,,,0,0,NULL
+2010-06-02 11:54:11,124,2,0,Al D Tal,si,http://www.ald-tal.com                           ,,,,,,,,,,info[en]ald-tal.com,,,,,Punk Rock,,,,0,0,NULL
+2010-06-09 10:01:20,125,2,0,Grotesko,si,http://www.grotesko.8k.com                            ,,,,,,,,,,diego.grotesko[en]hotmail.com,,,,,New Metal,,,,0,0,NULL
+2010-05-24 13:21:08,126,2,0,Arkhe,si,,,,,,,,,,,arkhe3[en]gmail.com,,,,,Latin Rock,,,,0,0,NULL
+2010-05-24 13:21:08,127,2,0,V Mandamiento,si,,,,,,,,,,,v_mandamiento[en]yahoo.com,,,,,Power,,,,0,0,NULL
+2010-05-24 13:21:08,128,2,0,Nada es de Nadie,si,,,,,,,,,,,nada_esde_nadie[en]hotmail.com,,,,,Punk Rock,,,,0,0,NULL
+2010-05-24 13:21:08,129,2,0,Alejandro Gutiérrez y su Banda,si,,,,,,,,,,,alejogc[en]hotmail.com,,,,,Rock Pop,,,,0,0,NULL
+2010-05-24 13:21:08,130,2,0,Tribu Omerta,si,,,,,,,,,,,info[en]dontranquilo.com,,,,,Hip-Hop,,,,0,0,NULL
+2010-05-24 13:21:08,131,2,0,Plato Frío,si,,,,,,,,,,,platofrio[en]gmail.com,,,,,Nuevas Tendencias,,,,0,0,NULL
+2010-05-24 13:21:08,132,2,0,Talión,si,,,,,,,,,,,grupotalion[en]gmail.com,,,,,Metal,,,,0,0,NULL
+2010-05-24 13:21:08,133,2,0,SKS,si,,,,,,,,,,,ganjamoowy[en]hotmail.com,,,,,Hip-Hop,,,,0,0,NULL
+2010-05-24 13:21:08,134,2,0,Acceso Denegado,si,,,,,,,,,,,ad6accesodenegado[en]hotmail.com,,,,,Hip-Hop,,,,0,0,NULL
+2010-05-24 13:21:08,135,2,0,Descendencia,si,,,,,,,,,,,granintelecto[en]hotmail.com,,,,,Hip-Hop,,,,0,0,NULL
+2010-05-24 13:21:08,136,2,0,Siva,si,,,,,,,,,,,siva.04[en]hotmail.com,,,,,Punk Melódico,,,,0,0,NULL
+2010-05-24 13:21:08,137,2,0,Libre Calibre,si,,,,,,,,,,,jcamilomorales82[en]latinmail.com,,,,,Hip-Hop,,,,0,0,NULL
+2010-05-24 13:21:08,138,2,0,Countryman Friends,si,,,,,,,,,,,countrymanfriends[en]hotmail.com,,,,,Rock Pop,,,,0,0,NULL
+2010-05-24 13:21:08,139,2,0,Izaya 103,si,,,,,,,,,,,isaya103[en]hotmail.com,,,,,Hip-Hop,,,,0,0,NULL
+2010-05-24 13:21:08,140,2,0,Deaklen,si,,,,,,,,,,,siglodeaklen[en]yahoo.com,,,,,Punk Rock,,,,0,0,NULL
+2010-06-09 10:33:42,141,2,0,Mar Adentro,si,http://maradentro.e-lexia.com,,,,,,,,,,maradentrorock[en]yahoo.com,,,,,Pop Rock,,,,0,0,NULL
+2010-05-24 13:21:08,142,2,0,Cerebros,si,,,,,,,,,,,magliony[en]hotmail.com,,,,,Hip-Hop,,,,0,0,NULL
+2010-05-24 13:21:08,143,2,0,Poca Cosa,si,"<a href=""http://www.spaces.msn.com/fotospocacosa"">www.spaces.msn.com/fotospocacosa</a>",,,,,,,,,,pocacosaskapunk[en]hotmail.com,,,,,Skapunk,,,,0,0,NULL
+2010-05-24 13:21:08,144,2,0,Carmilla Morte,si,,,,,,,,,,,grunhert[en]hotmail.com,,,,,Gothic,,,,0,0,NULL
+2010-05-24 13:21:08,145,2,0,Fuertes Convicciones,si,,,,,,,,,,,fuertes_cvns[en]yahoo.com,,,,,Hardcore,,,,0,0,NULL
+2010-05-24 13:21:08,146,2,0,Lynch,si,,,,,,,,,,,nrok002[en]hotmail.com,,,,,Nuevas Tendencias,,,,0,0,NULL
+2010-05-24 13:21:08,147,2,0,Jahndu,si,,,,,,,,,,,jhanduman[en]hotmail.com,,,,,Hip-Hop,,,,0,0,NULL
+2010-05-24 13:21:08,148,2,0,Átomos,si,,,,,,,,,,,atomizado[en]gmail.com,,,,,Pop Rock,,,,0,0,NULL
+2010-05-24 13:21:08,149,2,0,Insaid,si,,,,,,,,,,,insaidproyecto[en]gmail.com,,,,,New Metal,,,,0,0,NULL
+2010-06-09 10:54:18,150,2,0,Puro Filin,si,http://www.myspace.com/purofilin                            ,,,,,,,,,,medebes500[en]hotmail.com,,,,,Pop Rock,,,,0,0,NULL
+2010-06-09 10:51:11,151,2,0,Primera Clase,si,,,,,,,,,,,primeraclasepunkrock[en]gmail.com,,,,,Punk Rock,,,,0,0,NULL
+2010-05-24 13:21:08,152,2,0,Blasphemer,si,,,,,,,,,,,blasphemer.trash[en]gmail.com,,,,,Trash Metal,,,,0,0,NULL
+2010-06-09 09:57:29,153,2,0,Fuse,si,http://www.myspace.com/fusefuse                           ,,,,,,,,,,fuse.fuse[en]gmail.com,,,,,Pop Rock,,,,0,0,NULL
+2010-06-09 10:42:03,154,2,0,Naki,si,                                                    ,,,,,,,,,,nakibailarin[en]gmail.com,,,,,Pop Rock,,,,0,0,NULL
+2010-05-24 13:21:08,155,2,0,Militantes Underground,si,,,,,,,,,,,militantesund[en]yahoo.es,,,,,Hip-Hop,,,,0,0,NULL
+2010-05-24 13:21:08,156,2,0,Sádiko,si,,,,,,,,,,,antropocrisis[en]yahoo.com.mx,,,,,New Metal,,,,0,0,NULL
+2010-05-24 13:21:08,157,2,0,Aquí Nos Bajamos,si,,,,,,,,,,,sabian180[en]hotmail.com,,,,,Punk Rock,,,,0,0,NULL
+2010-06-09 11:16:03,158,2,0,Stage,si,http://www.myspace.com/xtage                           ,,,,,,,,,,stagecore[en]gmail.com,,,,,Nuevas Tendencias,,,,0,0,NULL
+2010-06-09 11:17:17,159,2,0,Supermasivo,si,http://www.myspace.com/supermasivo,,,,,,,,,,supermasivox[en]hotmail.com,,,,,Punk Rock,,,,0,0,NULL
+2010-05-24 13:21:08,160,2,0,La Kasta,si,,,,,,,,,,,kastahk478[en]yahho.es,,,,,Hip-Hop,,,,0,0,NULL
+2010-06-09 10:16:44,161,2,0,Kontragolpe,si,                                                ,,,,,,,,,,contragolpemlla[en]hotmail.com,,,,,Hip-Hop,,,,0,0,NULL
+2010-05-24 13:21:08,162,2,0,Sentencia Urbana,si,,,,,,,,,,,sentnciaurbanarap[en]hotmail.com,,,,,Hip-Hop,,,,0,0,NULL
+2010-06-02 11:14:38,163,2,0,10 Grados,si,http://www.10grados.4t.com                            ,,,,,,,,,,10grados[en]gmail.com,,,,,Punk Rock,,,,0,0,NULL
+2010-05-24 13:21:08,164,2,0,K2,si,,,,,,,,,,,caramandrejotitaramandrillo[en]hotmail.com,,,,,Nuevas Tendencias,,,,0,0,NULL
+2010-05-24 13:21:08,165,2,0,D´can,si,,,,,,,,,,,dresdog[en]hotmail.com,,,,,Hip-Hop,,,,0,0,NULL
+2010-06-09 11:27:07,166,2,0,Zehtyan,si,                                   ,,,,,,,,,,ktrine.65[en]yahoo.es,,,,,Hip-Hop,,,,0,0,NULL
+2010-06-09 11:21:40,167,2,0,Twilight,si,http://www.myspace.com/twtcore                         ,,,,,,,,,,twilightm[en]gmail.com,,,,,New Metal,,,,0,0,NULL
+2010-06-09 09:52:43,168,2,0,Etnocidio,si,http://www.etnocidio.cjb.net                            ,,,,,,,,,,,,,,,Death Metal,,,,0,0,NULL
+2010-06-09 11:15:26,169,2,0,Sonatha,si,http://www.myspace.com/sonatha                            ,,,,,,,,,,sonatha.rsc[en]gmail.com,,,,,Hip-Hop,,,,0,0,NULL
+2010-06-08 09:39:14,170,2,0,Champagne,si,http://www.myspace.com/champagnemed                     ,,,,,,,,,,champagneb[en]gmail.com,,,,,Pop Rock,,,,0,0,NULL
+2010-06-09 10:04:32,171,2,0,IGGY,si,http://www.myspace.com/iggycolombia                   ,,,,,,,,,,iggyarts[en]hotmail.com,,,,,Pop Rock,,,,0,0,NULL
+2010-06-09 11:46:19,172,2,0,Volcánica,si,                       ,,,,,,,,,,contacto[en]volcanicarock.com,,,,,Nuevas Tendencias,,,,0,0,NULL
+2010-06-08 09:37:47,173,2,0,Bless The Silence,si,http://www.myspace.com/blessthesilence,,,,,,,,,,blessthesilence[en]hotmail.com,,,,,Dark Metal,,,,0,0,NULL
+2010-05-24 13:21:08,174,2,0,Áluma,si,,,,,,,,,,,aluna[en]gmail.com,,,,,Pop Rock,,,,0,0,NULL
+2010-06-09 10:46:20,175,2,0,No Prohibido,si,http://www.myspace.com/noprohibido,,,,,,,,,,no_prohibido[en]yahoo.com,,,,,Punk Rock,,,,0,0,NULL
+2010-05-24 13:21:08,176,2,0,La Posilga,si,,,,,,,,,,,hiphopsilgaclub[en]hotmail.com,,,,,Hip-Hop,,,,0,0,NULL
+2010-06-09 10:39:54,177,2,0,Mortem,si,http://www.myspace.com/mortemmedellin,,,,,,,,,,mortem.mortem[en]gmail.com,,,,,Death Metal,,,,0,0,NULL
+2010-05-24 13:21:08,178,2,0,Laberinto E.L.C.,si,,,,,,,,,,,,,,,,Hip-Hop,,,,0,0,NULL
+2010-05-24 13:21:08,179,2,0,Jokers,si,,,,,,,,,,,alessio182[en]hotmail.com,,,,,Punk Rock,,,,0,0,NULL
+2010-05-24 13:21:08,180,2,0,Explosión Negra,si,,,,,,,,,,,voces.explosion[en]hotmail.com,,,,,Hip-Hop,,,,0,0,NULL
+2010-05-24 13:21:08,406,2,0,Triaje,si,http://www.myspace.com/mundotriaje   ,,,,,,,,,,,,,,,Experimental / Acoustic / Rock ,,,,0,0,NULL
+2010-06-09 09:40:00,182,2,0,Devoured Decapitation,si,      ,,,,,,,,,,devoureddecapitation[en]hotmail.com,,,,,Death Metal,,,,0,0,NULL
+2010-06-09 11:00:38,183,2,0,Servicio Públiko,si,http://www.myspace.com/serviciopubliko,,,,,,,,,,serviciopubliko[en]hotmail.com,,,,,Reggae,,,,0,0,NULL
+2010-06-09 09:38:03,184,2,0,Desastre Capital,si,http://www.myspace.com/desastrecapital                          ,,,,,,,,,,desastrecapital[en]gmail.com,,,,,Punk,,,,0,0,NULL
+2010-06-09 11:48:29,185,2,0,Providencia,si,                  ,,,,,,,,,,providencia_[en]hotmail.com,,,,,Reggae,,,,0,0,NULL
+2010-06-09 09:36:50,186,2,0,Desacuerdo,si,                                              ,,,,,,,,,,desacuerdo[en]gmail.com,,,,,Punk,,,,0,0,NULL
+2010-05-24 13:21:08,187,2,0,Lírica Social,si,,,,,,,,,,,lshiphopmedellin[en]hotmail.com,,,,,Hip-Hop,,,,0,0,NULL
+2010-05-24 13:21:08,188,2,0,Clown Box,si,,,,,,,,,,,alexjarami[en]yahoo.es,,,,,Punk Rock,,,,0,0,NULL
+2010-06-09 10:05:37,189,2,0,Jhon Harold Dávila,si,http://www.myspace.com/davilapurocorazon                        ,,,,,,,,,,launidesdmusic[en]hotmail.com,,,,,Pop Rock,,,,0,0,NULL
+2010-05-24 13:21:08,190,2,0,Bluesfera,si,,,,,,,,,,,gravedad7[en]hotmail.com,,,,,Industrial,,,,0,0,NULL
+2010-05-24 13:21:08,191,2,0,Hellworld,si,,,,,,,,,,,hellworld-death[en]hotmail.com,,,,,Death Metal,,,,0,0,NULL
+2010-05-24 13:21:08,192,2,0,Pagamento,si,,,,,,,,,,,juanalpavi[en]yahoo.com,,,,,Reggae,,,,0,0,NULL
+2010-05-24 13:21:08,193,2,0,Poetic Kaos Klan,si,,,,,,,,,,,africanitmo[en]hotmail.com,,,,,Hip-Hop,,,,0,0,NULL
+2010-05-24 13:21:08,194,2,0,Coxis,si,,,,,,,,,,,coxis[en]musinettv.com,,,,,New Metal,,,,0,0,NULL
+2010-06-02 11:13:42,195,2,0,4to Strike,si,http://www.myspace.com/4tostrike        ,,,,,,,,,,cuartostrike[en]hotmail.com,,,,,Punk Rock,,,,0,0,NULL
+2010-06-09 09:44:20,196,2,0,Dualma,si,                                              ,,,,,,,,,,dualmadualma[en]yahoo.com,,,,,New Metal,,,,0,0,NULL
+2010-05-24 13:21:08,197,2,0,HH Mgo Emgion,si,,,,,,,,,,,n.n.records[en]hotmail.com,,,,,Hip-Hop,,,,0,0,NULL
+2010-06-09 11:28:09,198,2,0,Zirano Zerioous,si,http://www.myspace.com/ziranozerioous,,,,,,,,,,ziranizerioous[en]hotmail.com,,,,,Hip-Hop,,,,0,0,NULL
+2010-06-02 11:26:43,199,2,0,Alta Dosis Neurótica,si,http://www.myspace.com/altadn     ,,,,,,,,,,altadn[en]hotmail.com,,,,,Punk Rock,,,,0,0,NULL
+2010-05-24 13:21:08,200,2,0,En Blanco y Negro,si,,,,,,,,,,,black_conitesouleve[en]hotmail.com,,,,,Hip-Hop,,,,0,0,NULL
+2010-05-24 13:21:08,201,2,0,En Contra de Todo,si,,,,,,,,,,,encontradetodohxc[en]gmail.com,,,,,Punk Rock,,,,0,0,NULL
+2010-06-09 09:53:22,202,2,0,Exenta,si,http://www.myspace.com/exegeta,,,,,,,,,,exegetapowerband[en]hotmail.com,,,,,Emo core,,,,0,0,NULL
+2010-06-08 09:36:03,203,2,0,B7,si,http://www.rockb7.blogspot.com,,,,,,,,,,juanpopeb7[en]hotmail.com,,,,,Pop Rock,,,,0,0,NULL
+2010-06-09 11:22:08,204,2,0,Último Estado,si,http://www.myspace.com/ultimoestado                ,,,,,,,,,,ultimo_estado[en]hotmail.com,,,,,Punk Rock,,,,0,0,NULL
+2010-05-24 13:21:08,205,2,0,Kongo MC,si,,,,,,,,,,,kongomc[en]hotmail.com,,,,,Hip-Hop,,,,0,0,NULL
+2010-06-09 09:44:51,206,2,0,Ekhymosis,si,http://en.wikipedia.org/wiki/Ekhymosis,,,,,,,,,,,,,,,"Metal, Fusion",,,,0,0,NULL
+2010-06-09 09:41:18,208,2,0,Dócil ,si,http://www.myspace.com/docil                             ,,,,,,,,,,,,,,,"electronica, pop, trip hop ",,,,0,0,NULL
+2010-06-09 11:16:46,209,2,0,Superagentes,si,http://www.myspace.com/superagentes,,,,,,,,,,NULL,,,,,"electronica, breakbeat",,,,0,0,NULL
+2010-06-09 09:55:38,210,2,0,Fertil miseria,si,http://www.myspace.com/fertilmiseria                           ,,,,,,,,,"<img src=""http://a214.ac-images.myspacecdn.com/images01/110/m_fa27edb240e924777a408e5f9360a47d.jpg"">",NULL,,,,,"Hardcore, punmedallo",,,,0,0,NULL
+2010-05-24 13:21:08,211,2,0,FADE,si,www.faderock.es.tl,,,,,,,,,,faderock[en]gmail.com,,,,,rock,,,,0,0,NULL
+2010-05-24 13:21:08,405,2,0,Betomisas,si,http://www.myspace.com/losbetomisas ,,,,,,,,,,,,,,,"Indie, pop, rock",,,,0,0,NULL
+2010-05-24 13:21:08,220,2,0,La69,si,,,,,,,,,,,,,,,,"Indie, alternative, rock",,,,0,0,NULL
+2010-05-24 13:21:08,221,2,0,Gordo\'s Project,si,,,,,,,,,,,,,,,,New Tablado,,,,0,0,NULL
+2010-05-24 13:21:08,231,2,0,Niebla de Opio,si,http://www.niebladeopio.8m.com,,,,,,,,,,niebladeopio@hotmail.com,,,,,Death Metal,,,,0,0,NULL
+2010-06-09 09:29:46,223,2,0,cortejo fúnebre,si,http://www.myspace.com/cortejofunebremusic                            ,,,,,,,,,,emo.cortejofunebre[en]gmail.com,,,,,emo-core experimental,,,,0,0,NULL
+2010-05-24 13:21:08,225,2,0,Cúpula ORG,si,,,,,,,,,,,ziranozeiroous[en]hotmail[punto]com,,,,,Hip-Hop,,,,0,0,NULL
+2010-05-24 13:21:08,232,2,0,Advertencia,si,,,,,,,,,,,grupoadvertencia@hotmail.com,,,,,Punk Rock,,,,0,0,NULL
+2010-05-24 13:21:08,233,2,0,Punkies y Cerebro,si,,,,,,,,,,,punkiesycerebro@yahoo.es,,,,,Punk,,,,0,0,NULL
+2010-05-24 13:21:08,234,2,0,Urania,si,,,,,,,,,,,uraniavladimir@yahoo.es,,,,,Pop Rock,,,,0,0,NULL
+2010-05-24 13:21:08,235,2,0,Blender,si,,,,,,,,,,,blenderpunkrock@hotmail.com,,,,,Neo Punk,,,,0,0,NULL
+2010-06-09 10:02:24,236,2,0,Hábako,si,,,,,,,,,,,habakoluis@hotmail.com,,,,,Nuevas Tendencias,,,,0,0,NULL
+2010-05-24 13:21:08,237,2,0,Planta Cadáver,si,http://www.myspace.com/plantacadaver,,,,,,,,,,plantacadaver.band@yahoo.com,,,,,Death Metal,,,,0,0,NULL
+2010-05-24 13:21:08,238,2,0,Fractal,si,http://www.myspace.com/fractalcolombia,,,,,,,,,,fractalcolombia@gmail.com,,,,,Metal Core,,,,0,0,NULL
+2010-05-24 13:21:08,239,2,0,Unión Estrategia,si,http://www.myspace.com/unionestrategia,,,,,,,,,,unionestrategia@gmail.com,,,,,Hip-Hop,,,,0,0,NULL
+2010-05-24 13:21:08,240,2,0,Bajo Llave,si,http://www.myspace.com/bajollave,,,,,,,,,,bajollave@gmail.com,,,,,Punk Rock,,,,0,0,NULL
+2010-05-24 13:21:08,241,2,0,Barba Santa Reggae,si,http://www.myspace.com/barbasanta,,,,,,,,,,franklin.manga@gmail.com,,,,,Reggae,,,,0,0,NULL
+2010-05-24 13:21:08,242,2,0,Céfiro,si,http://www.myspace.com/cfiro,,,,,,,,,,celda_de_cefiro@hotmail.com,,,,,Love Metal,,,,0,0,NULL
+2010-05-24 13:21:08,243,2,0,Red-Volutionary,si,,,,,,,,,,,red_volucion@hotmail.com,,,,,Hip-Hop,,,,0,0,NULL
+2010-05-24 13:21:08,244,2,0,4 Tiempos,si,,,,,,,,,,,los4tiempos@yahoo.com,,,,,Punk Rock,,,,0,0,NULL
+2010-05-24 13:21:08,245,2,0,Lokekeda,si,http://www.myspace.com/lokekeda,,,,,,,,,,lokekeda@hotmail.com,,,,,Punk,,,,0,0,NULL
+2010-05-24 13:21:08,246,2,0,Extracto Cero,si,,,,,,,,,,,buntaroreggae@hotmail.com,,,,,Hip-Hop,,,,0,0,NULL
+2010-05-24 13:21:08,247,2,0,Comando Root\'s Organización (CMR) Family,si,,,,,,,,,,,,,,,,Hip-Hop,,,,0,0,NULL
+2010-05-24 13:21:08,248,2,0,Good Virus,si,http://www.myspace.com/goodvirus,,,,,,,,,,goodvirus4@hotmail.com,,,,,Punk Rock,,,,0,0,NULL
+2010-05-24 13:21:08,249,2,0,Invierno,si,,,,,,,,,,,bandainverno@gmail.com,,,,,Rock Pop,,,,0,0,NULL
+2010-05-24 13:21:08,250,2,0,Los Suziox,si,http://www.lossuziox.tk3.net,,,,,,,,,,lossuziox@hotmail.com,,,,,Punk,,,,0,0,NULL
+2010-05-24 13:21:08,251,2,0,Hi Chico,si,,,,,,,,,,,hichico@gmail.com,,,,,Rock,,,,0,0,NULL
+2010-05-24 13:21:08,252,2,0,ML2K,si,,,,,,,,,,,ml2khhw@gmail.com,,,,,Hip-Hop,,,,0,0,NULL
+2010-05-24 13:21:08,253,2,0,Aswell,si,,,,,,,,,,,jkmsmackdown@hotmail.com,,,,,New Metal,,,,0,0,NULL
+2010-05-24 13:21:08,254,2,0,Calle Silvestre,si,,,,,,,,,,,mauromoore@hotmail.com,,,,,Pop Rock,,,,0,0,NULL
+2010-05-24 13:21:08,255,2,0,M.C.,si,,,,,,,,,,,karlypeke1980@hotmail.com,,,,,Hip-Hop,,,,0,0,NULL
+2010-05-24 13:21:08,256,2,0,Angkor Thom,si,,,,,,,,,,,angkorband@gmail.com,,,,,Heavy Metal,,,,0,0,NULL
+2010-05-24 13:21:08,257,2,0,No Raza,si,,,,,,,,,,,no_raza@hotmail.com,,,,,Heavy Metal,,,,0,0,NULL
+2010-05-24 13:21:08,258,2,0,Melissa,si,,,,,,,,,,,melissarockband@hotmail.com,,,,,Heavy Metal,,,,0,0,NULL
+2010-05-24 13:21:08,259,2,0,Sociedad Travieza and Sicodélico,si,,,,,,,,,,,vaneyepes13@hotmail.com,,,,,Hip-Hop,,,,0,0,NULL
+2010-05-24 13:21:08,260,2,0,My Nipples,si,http://mynipples.spaces.live.com,,,,,,,,,,mynipples3@hotmail.com,,,,,Punk Rock,,,,0,0,NULL
+2010-05-24 13:21:08,261,2,0,Psycophobia,si,http://www.myspace.com/psycophobia,,,,,,,,,,psycophobia@gmail.com,,,,,Nuevas Tendencias,,,,0,0,NULL
+2010-05-24 13:21:08,262,2,0,Cabal,si,http://www.myspace.com/cabalmusic,,,,,,,,,,cabalmusic@hotmail.com,,,,,Hardcore,,,,0,0,NULL
+2010-05-24 13:21:08,263,2,0,Stado Crítico,si,,,,,,,,,,,danielolayados@hotmail.com,,,,,Punk,,,,0,0,NULL
+2010-05-24 13:21:08,264,2,0,Sargatana,si,http://www.myspace.com/sargatana,,,,,,,,,,saragatana@gmail.com,,,,,Trash Death Metal,,,,0,0,NULL
+2010-05-24 13:21:08,265,2,0,La Hiena,si,,,,,,,,,,,,,,,,Hip-Hop,,,,0,0,NULL
+2010-05-24 13:21:08,266,2,0,Artefacto,si,http://www.myspace.com/artefactomusica,,,,,,,,,,artefactomusica@gmail.com,,,,,Pop Rock,,,,0,0,NULL
+2010-05-24 13:21:08,267,2,0,Individual,si,,,,,,,,,,,janemoto@hotmail.com,,,,,Hip-Hop,,,,0,0,NULL
+2010-05-24 13:21:08,268,2,0,Dos Manes Serios,si,,,,,,,,,,,,,,,,Hip-Hop,,,,0,0,NULL
+2010-05-24 13:21:08,269,2,0,Freddy y James in Studio,si,,,,,,,,,,,jamesund@hotmail.com,,,,,Hip-Hop,,,,0,0,NULL
+2010-05-24 13:21:08,270,2,0,Viajero,si,http://www.myspace.com/viajerosonico,,,,,,,,,,viajerogrupo@gmail.com,,,,,Electrónica,,,,0,0,NULL
+2010-05-24 13:21:08,271,2,0,Aviones,si,http://www.webaviones.tk,,,,,,,,,,losaviones-w@hotmail.com,,,,,Pop Rock,,,,0,0,NULL
+2010-05-24 13:21:08,272,2,0,Noesis,si,,,,,,,,,,,noesis2001@hotmail.com,,,,,Hip-Hop,,,,0,0,NULL
+2010-05-24 13:21:08,273,2,0,Zinagoga Crew,si,,,,,,,,,,,zinagogacrew@yahoo.es,,,,,Hip-Hop,,,,0,0,NULL
+2010-06-09 09:55:03,274,2,0,Federico Goes,si,http://www.myspace.com/federicogoes                        ,,,,,,,,,,federicogoez@gmail.com,,,,,Electro funk,,,,0,0,NULL
+2010-05-24 13:21:08,275,2,0,Behind The Throne,si,,,,,,,,,,,behindthethrone@yahoo.com,,,,,Metal,,,,0,0,NULL
+2010-05-24 13:21:08,276,2,0,Calibre 38,si,http://www.calibre.8m.com,,,,,,,,,,calibrepunkrock@hotmail.com,,,,,Punk Rock,,,,0,0,NULL
+2010-05-24 13:21:08,277,2,0,Caña Brava,si,,,,,,,,,,,delincuenciacomun@hotmail.com,,,,,Hip-Hop,,,,0,0,NULL
+2010-05-24 13:21:08,278,2,0,Mandrágora,si,,,,,,,,,,,andremao_@hotmail.com,,,,,Punk Rock,,,,0,0,NULL
+2010-05-24 13:21:08,279,2,0,Dinamo,si,http://www.myspace.com/rockdinamo,,,,,,,,,,dinamo150@yahoo.com,,,,,Pop Rock,,,,0,0,NULL
+2010-06-09 11:01:10,280,2,0,Shadowlit Mind,si,http://www.myspace.com/shadowlitmind,,,,,,,,,,shadowlitmind@lycos.com,,,,,Metal Death Melodic ,,,,0,0,NULL
+2010-06-09 10:24:49,281,2,0,La Machaca,si,                          ,,,,,,,,,,lamachacaataca@gmail.com,,,,,Pop Rock,,,,0,0,NULL
+2010-05-24 13:21:08,282,2,0,Mandrágora Hip-Hop,si,http://www.myspace.com/mandragorahiphop,,,,,,,,,,losmandrakes@gmail.com,,,,,Hip-Hop,,,,0,0,NULL
+2010-05-24 13:21:08,283,2,0,G98,si,http://www.myspace.com/g98,,,,,,,,,,g98andres@hotmail.com,,,,,Latin Fusion,,,,0,0,NULL
+2010-05-24 13:21:08,284,2,0,Reptil,si,,,,,,,,,,,reptilfunk@gmail.com,,,,,Rock,,,,0,0,NULL
+2010-05-24 13:21:08,285,2,0,Mesel,si,http://www.myspace.com/meiselcolombia,,,,,,,,,,meiselrenace@gmail.com,,,,,Punk Rock,,,,0,0,NULL
+2010-05-24 13:21:08,286,2,0,Bankrrota,si,http://www.myspace.com/bankrrota,,,,,,,,,,bankrrota@hotmail.com,,,,,Punk Rock,,,,0,0,NULL
+2010-05-24 13:21:08,287,2,0,Alcolirykoz,si,,,,,,,,,,,alcolirykoza2@hotmail.com,,,,,Hip-Hop,,,,0,0,NULL
+2010-05-24 13:21:08,288,2,0,Migthy Kalipssus,si,http://www.myspace.com/kalipssus,,,,,,,,,,jarc16@gmail.com,,,,,Hip-Hop,,,,0,0,NULL
+2010-05-24 13:21:08,289,2,0,La Banca,si,,,,,,,,,,,katherine_434@hotmail.com,,,,,Punk Rock,,,,0,0,NULL
+2010-05-24 13:21:08,290,2,0,Minerva Junglar,si,http://www.myspace.com/minervajunglar,,,,,,,,,,minervajunglar@hotmail.com,,,,,Hip-Hop,,,,0,0,NULL
+2010-05-24 13:21:08,291,2,0,Hasta el Fondo,si,http://www.myspace.com/hastaelfondo,,,,,,,,,,hastaelfondomusic@yahoo.com,,,,,Nuevas Tendencias,,,,0,0,NULL
+2010-05-24 13:21:08,292,2,0,Gorgona,si,http://gorgona-rock.spaces.live.com,,,,,,,,,,gorgona.rock@hotmail.com,,,,,Metal,,,,0,0,NULL
+2010-05-24 13:21:08,293,2,0,Alta-Calaña,si,,,,,,,,,,,,,,,,Hip-Hop,,,,0,0,NULL
+2010-05-24 13:21:08,294,2,0,Candy,si,,,,,,,,,,,wjjarami@unalmed.edu.co,,,,,Punk Rock,,,,0,0,NULL
+2010-05-24 13:21:08,295,2,0,Mental State,si,http://www.myspace.com/rockmentalstate,,,,,,,,,,mentalstate666@yahoo.com.mx,,,,,New Metal,,,,0,0,NULL
+2010-05-24 13:21:08,296,2,0,Doble Raza,si,http://www.myspace.com/doblerazareggae,,,,,,,,,,http://www.myspace.com/doblerazareggae,,,,,Reggae,,,,0,0,NULL
+2010-05-24 13:21:08,297,2,0,Iced Angels,si,,,,,,,,,,,icedangels@gmail.com,,,,,Power Metal Melódico,,,,0,0,NULL
+2010-05-24 13:21:08,298,2,0,El Mago,si,,,,,,,,,,,mcmago1022@hotmail.com,,,,,Hip-Hop,,,,0,0,NULL
+2010-05-24 13:21:08,299,2,0,C.E.A. ( Comando Élite de Ataque),si,,,,,,,,,,,condado13@yahoo.es,,,,,Hip-Hop,,,,0,0,NULL
+2010-05-24 13:21:08,300,2,0,Alive,si,http://www.myspace.com/alivepowerpop,,,,,,,,,,alive5power@hotmail.com,,,,,Pop Rock,,,,0,0,NULL
+2010-05-24 13:21:08,301,2,0,Dark Fall,si,,,,,,,,,,,ahccore@hotmail.com,,,,,Metal,,,,0,0,NULL
+2010-05-24 13:21:08,302,2,0,Macabro,si,http://www.myspace.com/macabro,,,,,,,,,,macabron06@yahoo.es,,,,,Metal Core,,,,0,0,NULL
+2010-05-24 13:21:08,303,2,0,Kolombia,si,,,,,,,,,,,kolombiareggae@hotmail.com,,,,,Reggae,,,,0,0,NULL
+2010-05-24 13:21:08,304,2,0,Los del Jueves,si,,,,,,,,,,,losdeljueves@gmail.com,,,,,Pop Rock,,,,0,0,NULL
+2010-05-24 13:21:08,305,2,0,Nazir,si,,,,,,,,,,,fredynazir@yahoo.com,,,,,Heavy Metal,,,,0,0,NULL
+2010-05-24 13:21:08,306,2,0,Alma Clandestina,si,,,,,,,,,,,nachsxxx@hotmail.com,,,,,Hip-Hop,,,,0,0,NULL
+2010-05-24 13:21:08,307,2,0,No Hay Día,si,http://www.myspace.com/nohaydia,,,,,,,,,,nohaydia@gmail.com,,,,,Punk Rock,,,,0,0,NULL
+2010-05-24 13:21:08,308,2,0,No Comply,si,http://www.myspace.com/nocomplymedellin,,,,,,,,,,nocomplymedellin@gmail.com,,,,,Punk Rock,,,,0,0,NULL
+2010-05-24 13:21:08,309,2,0,Last Dawn,si,http://www.myspace.com/lastdawnrock,,,,,,,,,,neverbeen20@gmail.com,,,,,Emo core,,,,0,0,NULL
+2010-05-24 13:21:08,310,2,0,Sexta Mandala,si,http://www.myspace.com/sextamandala,,,,,,,,,,sexta6mandala@gmail.com,,,,,Latin Rock,,,,0,0,NULL
+2010-05-24 13:21:08,311,2,0,Siribandaya,si,http://www.myspace.com/siribandaya,,,,,,,,,,siribandaya@hotmail.com,,,,,Punk Rock,,,,0,0,NULL
+2010-05-24 13:21:08,312,2,0,Ultrajala,si,http://www.myspace.com/ultrajala,,,,,,,,,,mapurox@hotmail.com,,,,,Hip-Hop,,,,0,0,NULL
+2010-05-24 13:21:08,313,2,0,Galatax,si,,,,,,,,,,,galatax@hotmail.com,,,,,Reggae,,,,0,0,NULL
+2010-05-24 13:21:08,314,2,0,Mandala,si,http://www.myspace.com/mandalacolombia,,,,,,,,,,grupomandala@hotmail.com,,,,,Rock Pop,,,,0,0,NULL
+2010-05-24 13:21:08,315,2,0,Control,si,http://www.myspace.com/controlmc,,,,,,,,,,control.metal@hotmail.com,,,,,Metal Core,,,,0,0,NULL
+2010-05-24 13:21:08,316,2,0,La Cuerda Floja,si,http://www.myspace.com/lacuerdaflojamusica,,,,,,,,,,lacuerdaf@gmail.com,,,,,Latin Rock,,,,0,0,NULL
+2010-05-24 13:21:08,317,2,0,Don Kristóbal,si,http://www.myspace.com/donkristobalreggae,,,,,,,,,,donkristobal@gmail.com,,,,,Reggae,,,,0,0,NULL
+2010-05-24 13:21:08,318,2,0,Delaiah,si,,,,,,,,,,,buscandosion79@yahoo.com,,,,,Hip-Hop,,,,0,0,NULL
+2010-05-24 13:21:08,319,2,0,Argot Callejero,si,,,,,,,,,,,n.n.records@hotmail.com,,,,,Hip-Hop,,,,0,0,NULL
+2010-05-24 13:21:08,320,2,0,Remembrance Of Pain,si,http://www.myspace.com/remembranceofpain,,,,,,,,,,remembranceofpain@hotmail.com,,,,,Death Metal Melódico,,,,0,0,NULL
+2010-05-24 13:21:08,321,2,0,Albert and Friends,si,,,,,,,,,,,lauralucia10@yahoo.com,,,,,Ska Reggae,,,,0,0,NULL
+2010-05-24 13:21:08,322,2,0,Bedlam,si,http://www.myspace.com/psychobedlam,,,,,,,,,,bedlamband@gmail.com,,,,,Psycho Metal,,,,0,0,NULL
+2010-05-24 13:21:08,323,2,0,Guachaca Club,si,,,,,,,,,,,guachacaclub@hotmail.com,,,,,Latin Rock,,,,0,0,NULL
+2010-05-24 13:21:08,324,2,0,Deadsoul,si,http://www.myspace.com/deadsoulsite,,,,,,,,,,deadsoul_med@yahoo.es,,,,,Death Metal,,,,0,0,NULL
+2010-05-24 13:21:08,325,2,0,Señor Perverso,si,,,,,,,,,,,grupoperverso@yahoo.com,,,,,Punk Rock,,,,0,0,NULL
+2010-05-24 13:21:08,326,2,0,Murder on the Dancefloor,si,http://www.myspace.com/motdrock,,,,,,,,,,motdrock@hotmail.com,,,,,Nuevas Tendencias,,,,0,0,NULL
+2010-05-24 13:21:08,327,2,0,Renacer,si,http://www.myspace.com/renacermhc,,,,,,,,,,renacermhc@hotmail.com,,,,,Metal Core,,,,0,0,NULL
+2010-05-24 13:21:08,328,2,0,Radheya,si,http://www.myspace.com/radheyamyspace,,,,,,,,,,andresglam@gmail.com,,,,,Emo core,,,,0,0,NULL
+2010-05-24 13:21:08,329,2,0,LS70,si,,,,,,,,,,,lasopa70@hotmail.com,,,,,Nuevas Tendencias,,,,0,0,NULL
+2010-05-24 13:21:08,330,2,0,Icaro,si,http://www.myspace.com/icaropunkrock,,,,,,,,,,icaropunkrock@gmail.com,,,,,Punk Rock,,,,0,0,NULL
+2010-05-24 13:21:08,331,2,0,Hora Sexta,si,http://www.myspace.com/horasexta,,,,,,,,,,horasexta@gmail.com,,,,,Nuevas Tendencias,,,,0,0,NULL
+2010-06-09 10:17:22,372,2,0,Kuz Kaz,si,http://www.facebook.com/profile.php?id=748933534                         ,,,,,,,,,,,,,,,"Rock, digital",,,,0,0,NULL
+2010-06-09 11:49:19,333,2,0,Pig Daddy,si,                      ,,,,,,,,,,pigdaddy_nsp@hotmail.com,,,,,Punk Rock,,,,0,0,NULL
+2010-05-24 13:21:08,334,2,0,Melancolía Entrópica,si,,,,,,,,,,,lucesdeltropico@yahoo.es,,,,,Pop Rock,,,,0,0,NULL
+2010-05-24 13:21:08,335,2,0,Andrés SG y su Guasquilandia,si,http://www.myspace.com/andressgmusic,,,,,,,,,,jaimeandressg@gmail.com,,,,,Latin Rock,,,,0,0,NULL
+2010-05-24 13:21:08,336,2,0,Perfect Day,si,http://www.myspace.com/perfectdaypunkrock,,,,,,,,,,perfect4day@hotmail.com,,,,,Punk Rock,,,,0,0,NULL
+2010-05-24 13:21:08,337,2,0,Os Corpus,si,http://www.myspace.com/oscorpus,,,,,,,,,,oscorpus@gmail.com,,,,,Power,,,,0,0,NULL
+2010-05-24 13:21:08,338,2,0,Efecto Doppler,si,,,,,,,,,,,efectodoppler.music@gmail.com,,,,,Nuevas Tendencias,,,,0,0,NULL
+2010-05-24 13:21:08,339,2,0,Poetas Family,si,,,,,,,,,,,poetasfamily@hotmail.com,,,,,Hip-Hop,,,,0,0,NULL
+2010-05-24 13:21:08,340,2,0,Radio Zoom,si,http://www.myspace.com/radiozoomband,,,,,,,,,,juanes7@hotmail.com,,,,,Pop Rock,,,,0,0,NULL
+2010-05-24 13:21:08,341,2,0,Alma Stereo,si,,,,,,,,,,,,,,,,Hip-Hop,,,,0,0,NULL
+2010-05-24 13:21:08,342,2,0,Bajo Cuerda,si,,,,,,,,,,,luferespn@hotmail.com,,,,,Hip-Hop,,,,0,0,NULL
+2010-05-24 13:21:08,343,2,0,Chaturanga,si,http://www.myspace.com/chaturangarock,,,,,,,,,,chaturangas@hotmail.com,,,,,Pop Rock,,,,0,0,NULL
+2010-05-24 13:21:08,344,2,0,No Identifik2,si,http://www.myspace.com/identifik2,,,,,,,,,,www.josenfg@hotmail.com,,,,,Neo Punk,,,,0,0,NULL
+2010-05-24 13:21:08,345,2,0,Azote,si,,,,,,,,,,,azoterecords@hotmail.com,,,,,Hip-Hop,,,,0,0,NULL
+2010-05-24 13:21:08,346,2,0,B&R,si,http://www.myspace.com/byrband,,,,,,,,,,brmedellin@gmail.com,,,,,Punk Rock,,,,0,0,NULL
+2010-05-24 13:21:08,347,2,0,Mujeres Desnudas,si,,,,,,,,,,,vinolmjo@hotmail.com,,,,,Latin Rock,,,,0,0,NULL
+2010-05-24 13:21:08,348,2,0,Tarmac,si,http://www.myspace.com/tarmacreggae,,,,,,,,,,tarmacreggae@hotmail.com,,,,,Reggae,,,,0,0,NULL
+2010-05-24 13:21:08,349,2,0,T.H.C.,si,http://www.thcpunkrock.tk,,,,,,,,,,thcpunkrock@hotmail.com,,,,,Punk Rock,,,,0,0,NULL
+2010-05-24 13:21:08,350,2,0,Da Soul,si,,,,,,,,,,,lafieraund@hotmail.com,,,,,Hip-Hop,,,,0,0,NULL
+2010-05-24 13:21:08,351,2,0,Dum Dum,si,http://www.myspace.com/lasombra03,,,,,,,,,,hiphoppuro@gmail.com,,,,,Hip-Hop,,,,0,0,NULL
+2010-05-24 13:21:08,352,2,0,Paint,si,http://www.myspace.com/paintmusic1,,,,,,,,,,paint_music1@yahoo.com,,,,,Rock Pop,,,,0,0,NULL
+2010-05-24 13:21:08,353,2,0,Muletaz Underground,si,,,,,,,,,,,muletaz777@gmail.com,,,,,Hip-Hop,,,,0,0,NULL
+2010-05-24 13:21:08,354,2,0,Yesta,si,,,,,,,,,,,y-vega184@hotmail.com,,,,,Hip-Hop,,,,0,0,NULL
+2010-06-09 09:35:23,356,2,0,Deaklen,si,                                                      ,,,,,,,,,,deaklenmail@gmail.com,,,,,Rock blues alternative,,,,0,0,NULL
+2010-05-24 13:21:08,359,2,0,Icotea,si,www.icotea.com,,,,,,,,,,icoteamusica@icotea.com,,,,,,,,,0,0,NULL
+2010-05-24 13:21:08,360,2,0,La lunar,si,,,,,,,,,,,,,,,,Rock indie,,,,0,0,NULL
+2010-06-09 10:40:38,361,2,0,mouse&deluxe,si,http://www.myspace.com/mouseydeluxe                            ,,,,,,,,,,mouseydeluxe@gmail.com,,,,,"electronica, downtempo, deep house",,,,0,0,NULL
+2010-06-09 10:25:24,375,2,0,La Montaña Gris,si,http://www.celtagris.com                            ,,,,,,,,,,info@celtagris.com,,,,,MÃºsica celta,,,,0,0,NULL
+2010-05-24 13:21:08,376,2,0,Los Jefes,si,,,,,,,,,,,davidrasec@hotmail.com,,,,,,,,,0,0,NULL
+2010-06-09 09:52:07,377,2,0,estática inminente,si,                                                       ,,,,,,,,,,estaticainminente@hotmail.com,,,,,"electronica, ambient, dance, rock",,,,0,0,NULL
+2010-06-09 10:48:08,378,2,0,Paula Rios,si,http://www.myspace.com/paularios1                            ,,,,,,,,,,paulitarios@hotmail.com,,,,,Pop rock,,,,0,0,NULL
+2010-06-09 10:20:10,379,2,0,la cia,si,http://www.myspace.com/laciatributo                            ,,,,,,,,,,pudo65@yahoo.com,,,,,rock.,,,,0,0,NULL
+2010-06-09 09:50:41,380,2,0,El Revés,si,http://www.myspace.com/grupoelreves                            ,,,,,,,,,,grupoelreves@gmail.com,,,,,"Ska, Reggae",,,,0,0,NULL
+2010-06-09 10:24:20,381,2,0,La FurruSka,si,                         ,,,,,,,,,,furruska@gmail.com,,,,,Cuarta Ola del Ska,,,,0,0,NULL
+2010-06-09 11:46:41,382,2,0,Spastico,si,http://www.myspace.com/spasticos                            ,,,,,,,,,,,,,,,,,,,0,0,NULL
+2010-06-09 11:20:57,383,2,0,The Kurtiz Band,si,http://www.myspace.com/thekurtizband                            ,,,,,,,,,,,,,,,alternative,,,,0,0,NULL
+2010-05-24 13:21:08,384,2,0,Hasta Nunca,si,,,,,,,,,,,hasta_nunca@hotmail.com,,,,,"Punk, Rock, Nuevas Tendencias",,,,0,0,NULL
+2010-05-24 13:21:08,388,2,0,Santlek,si,http://www.myspace.com/santlekmusica,,,,,,,,,,,,,,," Electro, pop, rock",,,,0,0,NULL
+2010-05-24 13:21:08,389,2,0,bitsing,si,http://www.myspace.com/thebitsing ,,,,,,,,,,,,,,," Electronica , Ambient, Experimental",,,,0,0,NULL
+2010-05-24 13:21:08,390,2,0,Ron Daymon,si,,,,,,,,,,,rondaymon@gmail.com,,,,,SkaPunk,,,,0,0,NULL
+2010-05-24 13:21:08,392,2,0,Cónclave,si,,,,,,,,,,,conclaverockband@gmail.com,,,,,Covers Alternoventas,,,,0,0,NULL
+2010-06-09 09:30:53,393,2,0,criados para morir,si,http://www.myspace.com/criadosparamorir                            ,,,,,,,,,,criadosparamorir@hotmail.com,,,,,punk,,,,0,0,NULL
+2010-05-24 13:21:08,398,2,0,Esteban puerta ,si,www.estebanpuerta.com,,,,,,,,,,contacto@estebanpuerta.com,,,,,pop rock,,,,0,0,NULL
+2010-06-09 10:06:26,395,2,0,Jis & Steff,si,http://www.myspace.com/olimporecords                            ,,,,,,,,,,jisysteff@hotmail.com,,,,,"Reggaeton, R&B",,,,0,0,NULL
+2010-06-09 10:07:17,399,2,0,Joaquin Garzon,si,,,,,,,,,,,,,,,,Flamenco/Pop,,,,0,0,NULL
+2010-05-24 13:21:08,401,2,0,descedencia,si,yahoo.com,,,,,,,,,,skater_sandra@yahoo.com,,,,,,,,,0,0,NULL
+2010-05-27 12:00:23,402,2,0,Superficies,si,http://www.myspace.com/superficies,,,,,,,,,,creasuperficies@gmail.com,,,,,indie,,,,0,0,NULL
+2010-05-24 13:21:08,403,2,0,señornaranjo,si,http://www.myspace.com/senornaranjo,,,,,,,,,,,,,,,"post-punk, ",,,,0,0,NULL
+2010-05-24 13:21:08,404,2,0,n.n punk,si,,,,,,,,,,,,,,,,,,,,0,0,NULL
+2010-05-24 13:21:08,407,2,0,Puerto Candelaria,si,http://www.myspace.com/puertocandelaria ,,,,,,,,,,,,,,, Latin / Jazz / Folk ,,,,0,0,NULL
+2010-05-24 13:21:08,408,2,0,La doble AA,si,http://www.myspace.com/ladoblea ,,,,,,,,,,,,,,,Rock,,,,0,0,NULL
+2010-05-24 13:21:08,409,2,0,Céfiro,si,www.myspace.com/cefirogoth,,,,,,,,,,celda_de_cefiro@hotmail.com,,,,,,,,,0,0,NULL
+2010-05-24 13:21:08,413,2,0,Cristian Gonzalez y Orquesta La Bohemia,si,http://www.cristiangonzalezlabohemia.com,,,,,,,,,,orquestalabohemia@hotmail.com,,,,,Musica Salsa Jazz Romantica,,,,0,0,NULL
+2010-05-24 13:21:08,414,2,0,santtoremedio,si,http://www.myspace.com/santtoremedio,,,,,,,,,,pizco7@hotmail.com,,,,,"rock,reggae",,,,0,0,NULL
+2010-06-02 11:14:07,415,2,0,Engaño Estatal,si,http://www.myspace.com/enganoestatal                            ,,,,,,,,,,enganoestatal@hotmail.com,,,,,Punk Rock,,,,0,0,NULL
+2010-06-09 12:10:46,417,2,0,Mala Suerte,si,http://www.bandamalasuerte.tk                            ,,,,,,,,,,klamyesteban@hotmail.com,,,,,"musica, punk, colombia",,,,0,0,NULL
+2010-05-27 12:11:32,420,2,0,Camila Lopez,si,http://www.camilalopez.net,,,,,,,,,,,,,poblado,medellin,"pop, palido",,,,0,0,NULL
+2010-05-24 13:21:08,421,2,0,DIFUSION MUSIC,si,http://difusionbogota.wordpress.com/,,,,,,,,,,difusionbogotacultural@gmail.com,,,BOGOTA,BOGOTA,RPOMOVER Y DIFUINDIR LA MUSICA COLOMBIANA,,,,0,0,NULL
+2010-05-26 10:17:15,423,2,0,THE CLOCKS,si,http://www.myspace.com/clocksband,,,,,,,,,,theclocksband@hotmail.com,,,Laureles y Aranjuez San Calletano,Medellin,indie,,,,0,0,NULL
+2011-09-16 17:46:07,428,2,0,Señor Oruga,si,www.myspace.com/segnororuga,,,,,,,,,,segnororuga@gmail.com,,,,Medellín,"Rock, blues, experimental",,,,0,0,NULL
