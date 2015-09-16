@@ -1,0 +1,136 @@
+{
+  "title": "Grupos de medellin recolectados por loritorecords",
+  "name": "grupos lorito",
+  "description": "grupos recolectados manualmente y a través de un formulario web entre el 2004 y 2010",
+  "licenses": [
+    {
+      "url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "title": "Creative Commons Attribution Share-Alike 4.0",
+      "id": "CC-BY-SA-4.0"
+    }
+  ],
+  "resources": [
+    {
+      "name": "artistas_loritorec.csv",
+      "path": "data/artistas_loritorec.csv",
+      "mediatype": "text/csv",
+      "bytes": 46879,
+      "schema": {
+        "fields": [
+          {
+            "name": "time",
+            "type": "datetime"
+          },
+          {
+            "name": "artistas_id",
+            "type": "integer"
+          },
+          {
+            "name": "captcha",
+            "type": "integer"
+          },
+          {
+            "name": "paternidad",
+            "type": "boolean"
+          },
+          {
+            "name": "nombre",
+            "type": "string"
+          },
+          {
+            "name": "activo",
+            "type": "string"
+          },
+          {
+            "name": "web",
+            "type": "string"
+          },
+          {
+            "name": "twitter",
+            "type": "number"
+          },
+          {
+            "name": "facebook",
+            "type": "number"
+          },
+          {
+            "name": "instragram",
+            "type": "number"
+          },
+          {
+            "name": "youtube",
+            "type": "number"
+          },
+          {
+            "name": "soundcloud",
+            "type": "number"
+          },
+          {
+            "name": "reverbnation",
+            "type": "number"
+          },
+          {
+            "name": "link1",
+            "type": "number"
+          },
+          {
+            "name": "link2",
+            "type": "number"
+          },
+          {
+            "name": "imagenes",
+            "type": "number"
+          },
+          {
+            "name": "correo",
+            "type": "string"
+          },
+          {
+            "name": "participaciones",
+            "type": "number"
+          },
+          {
+            "name": "cobertura",
+            "type": "number"
+          },
+          {
+            "name": "barrio",
+            "type": "number"
+          },
+          {
+            "name": "municipio",
+            "type": "number"
+          },
+          {
+            "name": "tags",
+            "type": "string"
+          },
+          {
+            "name": "zonaEncuentro",
+            "type": "number"
+          },
+          {
+            "name": "contacto",
+            "type": "number"
+          },
+          {
+            "name": "direccion",
+            "type": "number"
+          },
+          {
+            "name": "telefono",
+            "type": "boolean"
+          },
+          {
+            "name": "comuna",
+            "type": "boolean"
+          },
+          {
+            "name": "inicio",
+            "type": "string"
+          }
+        ]
+      }
+    }
+  ]
+}
