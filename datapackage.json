@@ -132,5 +132,15 @@
         ]
       }
     }
+  ],
+  "views": [
+    {
+      "id": "graph",
+      "type": "Graph",
+      "state": {
+        "group": "nombre",
+        "series": [ "activo" ]
+      }
+    }
   ]
 }
